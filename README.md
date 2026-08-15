@@ -27,3 +27,7 @@ Confira o passo a passo utilizado em:
 ## Agradecimentos
 
 O presente trabalho foi realizado com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), Brasil (processos nº 2024/19418-0 e 2026/00858-5).
+
+Esse trabalho usou recursos do "Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP)."
+
+Esta pesquisa tornou-se possível graças aos recursos computacionais disponibilizados pelo Núcleo de Computação Científica (NCC/GridUNESP) da Universidade Estadual Paulista (UNESP).
