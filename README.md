@@ -23,6 +23,8 @@ Confira o passo a passo utilizado em:
 
 *Os scripts utilizados para a criação dos gráficos estão na pasta scripts.
 
+O passo a passo completo está no [PDF exportado da plataforma Notion](2f06e8eb-fedf-4fb9-8f7e-a03fbd5f289e_EcoEvoBio2026_-_Anlises.pdf).
+
 
 ## Agradecimentos
 
