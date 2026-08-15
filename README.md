@@ -1,4 +1,6 @@
-# Explorando metagenomas de jardins de fungos cultivados por formigas-cortadeiras do gênero Atta para a descoberta de novos antifúngicos (Simpósio EcoEvoBio 2026)
+# Apresentação oral no Simpósio EcoEvoBio 2026
+
+Título: **Explorando metagenomas de jardins de fungos cultivados por formigas-cortadeiras do gênero *Atta* para a descoberta de novos antifúngicos**
 
 Este repositório foi criado para documentar e garantir a reprodutibilidade do projeto apresentado no I Simpósio EcoEvoBio.
 
