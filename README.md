@@ -3,10 +3,10 @@
 Este repositório foi criado para documentar e garantir a reprodutibilidade do projeto apresentado no I Simpósio EcoEvoBio.
 
 Autores (github)
-- Julia Braga Amaro (@jbraagaa)
-- Fábio Rodrigo de Freitas (@FabioRFreitas)
-- Julia Ferreira Santos (@lia002ju)
-- Renato Augusto Corrêa dos Santos (@SantosRAC)
+- Julia Braga Amaro ([@jbraagaa](https://github.com/jbraagaa))
+- Fábio Rodrigo de Freitas ([@FabioRFreitas](https://github.com/FabioRFreitas))
+- Julia Ferreira Santos ([@lia002ju](https://github.com/lia002ju))
+- Renato Augusto Corrêa dos Santos ([@SantosRAC](https://github.com/SantosRAC))
 
 Laboratório de Bioinformática e Multi-ômicas de Microrganismos (LBMM), Instituto de Biociências (IB) de Rio Claro, Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)
 
@@ -26,4 +26,4 @@ Confira o passo a passo utilizado em:
 
 ## Agradecimentos
 
-FAPESP
+O presente trabalho foi realizado com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), Brasil (processos nº 2024/19418-0 e 2026/00858-5).
